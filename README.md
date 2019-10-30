@@ -8,3 +8,7 @@ Datasets
 * Crashes last five years (Department of Transport Open Data, 2019)
 * Suburbs in Australia (Australian Bureau of Statistics, 2016)
 * Greater Capital City Statistical Areas (GCCSA) (Australian Bureau of Statistics, 2016)
+
+Instructions:
+* It is recommended that you update the filepath for the script to work.
+* The script works via Python Console > Show Editor.
